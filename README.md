@@ -1,2 +1,2 @@
-# Assignment-1--AI
+# Assignment-1-AI
 Python Task
